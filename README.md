@@ -30,5 +30,6 @@ NOTE: There might be some issues with files directory relative path pattern whic
 * Menu app
 ![screen6](https://user-images.githubusercontent.com/66091883/83359398-4825dd00-a37a-11ea-8e9b-ddee20ebcd7e.png)
 
-* Exampple service method
+* Example service method
+![screen7](https://user-images.githubusercontent.com/66091883/83359446-96d37700-a37a-11ea-8dc4-46576eb1beb4.png)
 
