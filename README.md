@@ -12,3 +12,13 @@ A console application that allows you to conveniently search for a car collectio
 * Eclipse-Collections 9.2.0
 * Lombok 1.18.10
 
+## Setup
+* Download the project:
+
+https://github.com/DlugoleckiPawel/CarsCollectionsApp.git
+
+and then run the App.main method.
+
+NOTE: There might be some issues with files directory relative path pattern which highly depends on your Operating System. Originally the program is designed to be run on the windows platform.
+
+## Screenshots
