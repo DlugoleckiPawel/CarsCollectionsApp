@@ -1,8 +1,8 @@
 # CarsCollectionsApp
 A console application that allows you to conveniently search for a car collection according to the selected criterion and view statistics
 
-## Technologies
-# Genral:
+### Technologies
+# General:
 Java 8
 Apache Maven 3.6.2
 
