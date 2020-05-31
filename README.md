@@ -27,6 +27,3 @@ NOTE: There might be some issues with files directory relative path pattern whic
 * Development of service methods
 
 ## Screenshots
-[
-![screen5](https://user-images.githubusercontent.com/66091883/83359262-75be5680-a379-11ea-8cfe-e8d3f15b7ff2.png)
-](url)
