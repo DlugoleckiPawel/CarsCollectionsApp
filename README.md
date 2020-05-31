@@ -21,4 +21,9 @@ and then run the App.main method.
 
 NOTE: There might be some issues with files directory relative path pattern which highly depends on your Operating System. Originally the program is designed to be run on the windows platform.
 
+## Features
+* Unit tests 
+* Convert to multi-module app
+* Development of service methods
+
 ## Screenshots
