@@ -1,0 +1,90 @@
+[
+  {
+    "model": "HONDA",
+    "price": 120000,
+    "mileage": -50000,
+    "color": "WHITE",
+    "components": [
+      "ABS",
+      "ESR",
+      "AUTOMATIC TRANSMISSION",
+      "BLUETOOTH"
+    ]
+  },
+  {
+    "model": "BMW",
+    "price": 180000,
+    "mileage": 50000,
+    "color": "WHITE",
+    "components": [
+      "ABS",
+      "ESR",
+      "TV TUNER",
+      "RADIO",
+      "AUTOMATIC TRANSMISSION"
+    ]
+  },
+  {
+    "model": "AUDI",
+    "price": 180000,
+    "mileage": 100000,
+    "color": "BLACK",
+    "components": [
+      "ABS",
+      "AIR CONDITIONING"
+    ]
+  },
+  {
+    "model": "AUDI",
+    "price": 97000,
+    "mileage": 10000,
+    "color": "SILVER",
+    "components": [
+      "ABS",
+      "AIR CONDITIONING"
+    ]
+  },
+  {
+    "model": "AUDI",
+    "price": 181500,
+    "mileage": 50000,
+    "color": "WHITE",
+    "components": [
+      "ABS",
+      "BLUETOOTH",
+      "GPS"
+    ]
+  },
+  {
+    "model": "SUZUKI",
+    "price": 181500,
+    "mileage": 80000,
+    "color": "SILVER",
+    "components": [
+      "ABS",
+      "BLUETOOTH"
+    ]
+  },
+  {
+    "model": "SKODA",
+    "price": 180000,
+    "mileage": 120000,
+    "color": "WHITE",
+    "components": [
+      "ABS",
+      "ESR",
+      "BLUETOOTH"
+    ]
+  },
+  {
+    "model": "VOLKSWAGEN",
+    "price": 22000,
+    "mileage": 150000,
+    "color": "WHITE",
+    "components": [
+      "ABS",
+      "ESR",
+      "BLUETOOTH"
+    ]
+  }
+]
