@@ -13,7 +13,7 @@ A console application that allows you to conveniently search for a car collectio
 * Lombok 1.18.10
 
 ## Setup
-* Download the project:
+Download the project:
 
 https://github.com/DlugoleckiPawel/CarsCollectionsApp.git
 
