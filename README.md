@@ -31,5 +31,5 @@ NOTE: There might be some issues with files directory relative path pattern whic
 ![screen6](https://user-images.githubusercontent.com/66091883/83359398-4825dd00-a37a-11ea-8e9b-ddee20ebcd7e.png)
 
 * Example service method
-![screen8](https://user-images.githubusercontent.com/66091883/83359495-db5f1280-a37a-11ea-87d2-285b9b80f1c2.png)
+![screen9](https://user-images.githubusercontent.com/66091883/83359543-1eb98100-a37b-11ea-8b14-f0e92ac10465.png)
 
