@@ -27,4 +27,8 @@ NOTE: There might be some issues with files directory relative path pattern whic
 * Development of service methods
 
 ## Screenshots
+* Menu app
 ![screen6](https://user-images.githubusercontent.com/66091883/83359398-4825dd00-a37a-11ea-8e9b-ddee20ebcd7e.png)
+
+* Exampple service method
+
