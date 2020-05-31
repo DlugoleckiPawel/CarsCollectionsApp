@@ -27,3 +27,4 @@ NOTE: There might be some issues with files directory relative path pattern whic
 * Development of service methods
 
 ## Screenshots
+https://github.com/DlugoleckiPawel/CarsCollectionsApp/issues/2#issue-628012363
